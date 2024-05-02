@@ -1,7 +1,7 @@
-###boas vida ao meu perfil 
+### Boas vida ao meu perfil 
 
-meu nome e victoria
+meu nome e Victoria
 
--estou estudando no alura 
--estu me desenvolvendo na linguagem javascript
--utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+- estou estudando no alura 
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
